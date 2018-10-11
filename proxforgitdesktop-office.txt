@@ -1,0 +1,4 @@
+C:\Users\502728263
+open .gitconfig add following
+[http]
+proxy=3.20.128.6:88
